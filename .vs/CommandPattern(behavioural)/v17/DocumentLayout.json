@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assignments\\CommandPattern(behavioural)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81696A-E1E1-47EB-A900-6E60BF299700}|CommandPattern(behavioural)\\CommandPattern(behavioural).csproj|d:\\assignments\\commandpattern(behavioural)\\commandpattern(behavioural)\\models\\television.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81696A-E1E1-47EB-A900-6E60BF299700}|CommandPattern(behavioural)\\CommandPattern(behavioural).csproj|solutionrelative:commandpattern(behavioural)\\models\\television.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81696A-E1E1-47EB-A900-6E60BF299700}|CommandPattern(behavioural)\\CommandPattern(behavioural).csproj|d:\\assignments\\commandpattern(behavioural)\\commandpattern(behavioural)\\models\\offcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81696A-E1E1-47EB-A900-6E60BF299700}|CommandPattern(behavioural)\\CommandPattern(behavioural).csproj|solutionrelative:commandpattern(behavioural)\\models\\offcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81696A-E1E1-47EB-A900-6E60BF299700}|CommandPattern(behavioural)\\CommandPattern(behavioural).csproj|d:\\assignments\\commandpattern(behavioural)\\commandpattern(behavioural)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81696A-E1E1-47EB-A900-6E60BF299700}|CommandPattern(behavioural)\\CommandPattern(behavioural).csproj|solutionrelative:commandpattern(behavioural)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81696A-E1E1-47EB-A900-6E60BF299700}|CommandPattern(behavioural)\\CommandPattern(behavioural).csproj|d:\\assignments\\commandpattern(behavioural)\\commandpattern(behavioural)\\models\\oncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81696A-E1E1-47EB-A900-6E60BF299700}|CommandPattern(behavioural)\\CommandPattern(behavioural).csproj|solutionrelative:commandpattern(behavioural)\\models\\oncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81696A-E1E1-47EB-A900-6E60BF299700}|CommandPattern(behavioural)\\CommandPattern(behavioural).csproj|d:\\assignments\\commandpattern(behavioural)\\commandpattern(behavioural)\\models\\remotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81696A-E1E1-47EB-A900-6E60BF299700}|CommandPattern(behavioural)\\CommandPattern(behavioural).csproj|solutionrelative:commandpattern(behavioural)\\models\\remotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81696A-E1E1-47EB-A900-6E60BF299700}|CommandPattern(behavioural)\\CommandPattern(behavioural).csproj|d:\\assignments\\commandpattern(behavioural)\\commandpattern(behavioural)\\models\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81696A-E1E1-47EB-A900-6E60BF299700}|CommandPattern(behavioural)\\CommandPattern(behavioural).csproj|solutionrelative:commandpattern(behavioural)\\models\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assignments\\CommandPattern(behavioural)\\CommandPattern(behavioural)\\Program.cs",
+              "RelativeDocumentMoniker": "CommandPattern(behavioural)\\Program.cs",
+              "ToolTip": "D:\\Assignments\\CommandPattern(behavioural)\\CommandPattern(behavioural)\\Program.cs",
+              "RelativeToolTip": "CommandPattern(behavioural)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:37:58.693Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OnCommand.cs",
+              "DocumentMoniker": "D:\\Assignments\\CommandPattern(behavioural)\\CommandPattern(behavioural)\\Models\\OnCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern(behavioural)\\Models\\OnCommand.cs",
+              "ToolTip": "D:\\Assignments\\CommandPattern(behavioural)\\CommandPattern(behavioural)\\Models\\OnCommand.cs",
+              "RelativeToolTip": "CommandPattern(behavioural)\\Models\\OnCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:45:24.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RemoteControl.cs",
+              "DocumentMoniker": "D:\\Assignments\\CommandPattern(behavioural)\\CommandPattern(behavioural)\\Models\\RemoteControl.cs",
+              "RelativeDocumentMoniker": "CommandPattern(behavioural)\\Models\\RemoteControl.cs",
+              "ToolTip": "D:\\Assignments\\CommandPattern(behavioural)\\CommandPattern(behavioural)\\Models\\RemoteControl.cs",
+              "RelativeToolTip": "CommandPattern(behavioural)\\Models\\RemoteControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:40:50.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Television.cs",
+              "DocumentMoniker": "D:\\Assignments\\CommandPattern(behavioural)\\CommandPattern(behavioural)\\Models\\Television.cs",
+              "RelativeDocumentMoniker": "CommandPattern(behavioural)\\Models\\Television.cs",
+              "ToolTip": "D:\\Assignments\\CommandPattern(behavioural)\\CommandPattern(behavioural)\\Models\\Television.cs",
+              "RelativeToolTip": "CommandPattern(behavioural)\\Models\\Television.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:39:33.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OffCommand.cs",
+              "DocumentMoniker": "D:\\Assignments\\CommandPattern(behavioural)\\CommandPattern(behavioural)\\Models\\OffCommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern(behavioural)\\Models\\OffCommand.cs",
+              "ToolTip": "D:\\Assignments\\CommandPattern(behavioural)\\CommandPattern(behavioural)\\Models\\OffCommand.cs",
+              "RelativeToolTip": "CommandPattern(behavioural)\\Models\\OffCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:45:36.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\Assignments\\CommandPattern(behavioural)\\CommandPattern(behavioural)\\Models\\ICommand.cs",
+              "RelativeDocumentMoniker": "CommandPattern(behavioural)\\Models\\ICommand.cs",
+              "ToolTip": "D:\\Assignments\\CommandPattern(behavioural)\\CommandPattern(behavioural)\\Models\\ICommand.cs",
+              "RelativeToolTip": "CommandPattern(behavioural)\\Models\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:38:52.443Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

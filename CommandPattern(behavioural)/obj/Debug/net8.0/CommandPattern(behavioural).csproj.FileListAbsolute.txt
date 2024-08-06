@@ -1,0 +1,14 @@
+D:\Assignments\CommandPattern(behavioural)\CommandPattern(behavioural)\bin\Debug\net8.0\CommandPattern(behavioural).exe
+D:\Assignments\CommandPattern(behavioural)\CommandPattern(behavioural)\bin\Debug\net8.0\CommandPattern(behavioural).deps.json
+D:\Assignments\CommandPattern(behavioural)\CommandPattern(behavioural)\bin\Debug\net8.0\CommandPattern(behavioural).runtimeconfig.json
+D:\Assignments\CommandPattern(behavioural)\CommandPattern(behavioural)\bin\Debug\net8.0\CommandPattern(behavioural).dll
+D:\Assignments\CommandPattern(behavioural)\CommandPattern(behavioural)\bin\Debug\net8.0\CommandPattern(behavioural).pdb
+D:\Assignments\CommandPattern(behavioural)\CommandPattern(behavioural)\obj\Debug\net8.0\CommandPattern(behavioural).GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\CommandPattern(behavioural)\CommandPattern(behavioural)\obj\Debug\net8.0\CommandPattern(behavioural).AssemblyInfoInputs.cache
+D:\Assignments\CommandPattern(behavioural)\CommandPattern(behavioural)\obj\Debug\net8.0\CommandPattern(behavioural).AssemblyInfo.cs
+D:\Assignments\CommandPattern(behavioural)\CommandPattern(behavioural)\obj\Debug\net8.0\CommandPattern(behavioural).csproj.CoreCompileInputs.cache
+D:\Assignments\CommandPattern(behavioural)\CommandPattern(behavioural)\obj\Debug\net8.0\CommandPattern(behavioural).dll
+D:\Assignments\CommandPattern(behavioural)\CommandPattern(behavioural)\obj\Debug\net8.0\refint\CommandPattern(behavioural).dll
+D:\Assignments\CommandPattern(behavioural)\CommandPattern(behavioural)\obj\Debug\net8.0\CommandPattern(behavioural).pdb
+D:\Assignments\CommandPattern(behavioural)\CommandPattern(behavioural)\obj\Debug\net8.0\CommandPattern(behavioural).genruntimeconfig.cache
+D:\Assignments\CommandPattern(behavioural)\CommandPattern(behavioural)\obj\Debug\net8.0\ref\CommandPattern(behavioural).dll
